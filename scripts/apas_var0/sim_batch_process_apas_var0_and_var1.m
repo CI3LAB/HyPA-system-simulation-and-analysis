@@ -1,0 +1,2 @@
+run('apas_var1_motion_planning_translation_and_levelling');
+run('apas_var0_motion_planning_translation_and_levelling');
